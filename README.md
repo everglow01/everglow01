@@ -37,7 +37,7 @@ I have hands-on experience with core vision tasks such as **object detection, in
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,qt,git,linux" alt="Skill icons" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,qt,linux,docker" alt="Skill icons" />
 
 <br />
 
